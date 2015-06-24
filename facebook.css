@@ -1,0 +1,101 @@
+.header{
+	border:2px solid red;
+	width: 100%;
+	height: 44px;
+}
+.subheader{
+	border:2px solid grey;
+	float:left;
+	width:40%;
+	height:22px;
+	margin-left:10%;
+	margin-top: -33px;
+	margin-right:45px ;
+}
+.circle{
+	border:2px solid grey;
+	border-radius: 25px;
+	width:25px;
+	height:25px;
+	position:relative;
+	left:55%;
+	margin-top:-33px;
+	margin-right: 25%;
+}
+.left-column{
+	border:2px solid red;
+	width: 20%;
+	height:600px;
+	float: left;
+	position: relative;
+	top:20px;
+}
+.row1{
+	border:2px solid red;
+	width:30%;
+	height:150px;
+	margin-top:20px;
+	margin-left: 22%;
+}
+.row2{
+	border:2px solid red;
+	width:30%;
+	height:150px;
+	margin-left: 22%;
+	margin-top: 4px;
+}
+.row3{
+	border:2px solid red;
+	width:30%;
+	height:150px;
+	margin-left: 22%;
+	margin-top: 4px;
+}
+
+.right-column{
+	border:2px solid red;
+	width:20%;
+	height:350px;
+	position: relative;
+	top:-470px;
+	left:55%;
+}
+.events-feed{
+	border:2px solid red;
+	width:20%;
+	height:150px;
+	position: relative;
+	margin-top:4px; 
+	top:-470px;
+	left:55%;
+}
+.chat{
+	border:2px solid red;
+	width:20%;
+	height:500px;
+	position: relative;
+	left:78%;
+	top:-980px;
+}
+.recent-chat{
+	border:2px solid red;
+	width:100%;
+	height: 100px;
+	position: relative;
+	left:0%;
+	top:400px;
+}
+.top-blocks{
+	border:2px solid grey;
+	width:97%;
+	height:30px;
+	position: relative;
+	top:0px;
+	left:1px;
+	margin-top:10px;
+}
+.invitations{
+	border:2px solid grey;
+	height: 90px;
+	margin:4px;
+}
